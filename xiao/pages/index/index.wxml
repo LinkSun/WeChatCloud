@@ -1,0 +1,17 @@
+<view class="input">
+<input placeholder="请输入名字" bindinput="addName">  </input>
+<input placeholder="请输入年龄;" bindinput="addAge"></input>
+<input placeholder="请输入要删除/查询的id;" bindinput="deleteId"></input>
+</view>
+<button bindtap="btnadd" type="primary" style="width:650rpx" >
+添加
+</button>
+<button bindtap="search" type="primary" style="width:650rpx">
+查询数据
+</button>
+<button bindtap="update" type="primary" style="width:650rpx">
+修改数据
+</button>
+<button bindtap="del" type="primary" style="width:650rpx">
+删除
+</button>

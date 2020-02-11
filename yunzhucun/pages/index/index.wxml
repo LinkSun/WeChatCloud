@@ -1,0 +1,2 @@
+<button bindtap="upload">提交图片</button>
+<image src="{{imgUrl}}" class="img"></image>

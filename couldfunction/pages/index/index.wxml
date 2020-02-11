@@ -1,0 +1,4 @@
+<button  bindtap="addnum">云函数增加数据</button>
+<button  bindtap="getid">获取用户id</button>
+<button  bindtap="getsqlnum">数据库获取数据</button>
+<button  bindtap="getshujuku">云函数获取数据库数据</button>
